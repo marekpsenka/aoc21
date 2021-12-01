@@ -1,0 +1,40 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Day 01a : Test",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day01a.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day01_test.txt"]
+        },
+        {
+            "name": "Day 01a",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day01a.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day01.txt"]
+        },
+        {
+            "name": "Day 01b : Test",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day01b.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day01_test.txt"]
+        },
+        {
+            "name": "Day 01b",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day01b.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day01.txt"]
+        }
+    ]
+}
