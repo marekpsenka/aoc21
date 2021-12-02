@@ -35,6 +35,38 @@
             "program": "${workspaceFolder}/day01b.py",
             "console": "integratedTerminal",
             "args": [ "<", "${workspaceFolder}/.inputs/day01.txt"]
+        },
+        {
+            "name": "Day 02a : Test",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day02a.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day02_test.txt"]
+        },
+        {
+            "name": "Day 02a",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day02a.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day02.txt"]
+        },
+        {
+            "name": "Day 02b : Test",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day02b.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day02_test.txt"]
+        },
+        {
+            "name": "Day 02b",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day02b.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day02.txt"]
         }
     ]
 }
