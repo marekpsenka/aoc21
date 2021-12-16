@@ -451,6 +451,46 @@
             "program": "${workspaceFolder}/day14b.py",
             "console": "integratedTerminal",
             "args": [ "<", "${workspaceFolder}/.inputs/day14.txt"]
+        },
+        {
+            "name": "Day 15a : Test",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day15a.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day15_test.txt"]
+        },
+        {
+            "name": "Day 15a",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day15a.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day15.txt"]
+        },
+        {
+            "name": "Day 15b : Test",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day15b.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day15_test.txt"]
+        },
+        {
+            "name": "Day 15b",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day15b.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day15.txt"]
+        },
+        {
+            "name": "i15 Jirka",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day15a.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/i15.txt"]
         }
     ]
 }
