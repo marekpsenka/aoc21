@@ -524,5 +524,69 @@
             "console": "integratedTerminal",
             "args": [ "<", "${workspaceFolder}/.inputs/day16.txt"]
         },
+        {
+            "name": "Day 17a : Test",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day17a.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day17_test.txt"]
+        },
+        {
+            "name": "Day 17a",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day17a.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day17.txt"]
+        },
+        {
+            "name": "Day 17b : Test",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day17b.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day17_test.txt"]
+        },
+        {
+            "name": "Day 17b",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day17b.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day17.txt"]
+        },
+        {
+            "name": "Day 18a : Test",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day18a.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day18_test.txt"]
+        },
+        {
+            "name": "Day 18a",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day18a.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day18.txt"]
+        },
+        {
+            "name": "Day 18b : Test",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day18b.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day18_test.txt"]
+        },
+        {
+            "name": "Day 18b",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/day18b.py",
+            "console": "integratedTerminal",
+            "args": [ "<", "${workspaceFolder}/.inputs/day18.txt"]
+        }
     ]
 }
